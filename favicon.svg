@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#0B3D91"/>
+  <!-- Pin body -->
+  <path d="M32 8C22.6 8 15 15.6 15 25c0 13.5 17 31 17 31s17-17.5 17-31C49 15.6 41.4 8 32 8Z" fill="white"/>
+  <!-- Pin hole -->
+  <circle cx="32" cy="24" r="7" fill="#0B3D91"/>
+  <!-- Road dashes below pin -->
+  <rect x="30.5" y="36" width="3" height="5" rx="1.5" fill="#0B3D91"/>
+  <rect x="30.5" y="43" width="3" height="5" rx="1.5" fill="#0B3D91"/>
+</svg>
